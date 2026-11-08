@@ -1,5 +1,0 @@
-vless://4a86f8d2-cae6-11f1-a27c-00163eafd9c8@83.147.235.36:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Saba1-v2raynetir
-vless://50248a2e-cae7-11f1-a5f0-00163e01407f@8.212.166.67:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Saba2-v2raynetir
-vless://732f00b8-caeb-11f1-a8a7-2b580e18f239@92.118.170.240:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Saba3-v2raynetir
-vless://5f944606-caed-11f1-b2d8-43ce36976c42@91.195.254.55:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Saba4-v2raynetir
-vless://75dea608-caee-11f1-b5b0-ab0ee194435e@37.221.66.166:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Saba5-v2raynetir
